@@ -13,7 +13,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "vite-plugin-static-copy": "^2.2.0",
-    "plivo-browser-sdk": "github:sanyamjain-plivo/plivo-github-testing"
+    "plivo-browser-sdk": "^2.2.18-rc.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
